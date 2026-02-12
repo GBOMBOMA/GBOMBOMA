@@ -1,5 +1,4 @@
-## Hi there 👋
-
+With a background in Biomedical Sciences and currently completing training in Artificial Intelligence and Epidemiology,  I use computational and data-driven methods to support evidence-based decision-making. My skills include data collection and preparation, exploratory and statistical analysis, predictive modeling and deploying models into usable workflows.I’m particularly interested in collaborating with interdisciplinary teams to innovate, solve problems, and improve outcomes.
 <!--
 **GBOMBOMA/GBOMBOMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
