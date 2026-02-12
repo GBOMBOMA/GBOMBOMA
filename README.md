@@ -1,7 +1,10 @@
 With a background in Biomedical Sciences and currently completing training in Artificial Intelligence and Epidemiology,  I use computational and data-driven methods to support evidence-based decision-making. My skills include data collection and preparation, exploratory and statistical analysis, predictive modeling and deploying models into usable workflows. I’m particularly interested in collaborating with interdisciplinary teams to innovate, solve problems, and improve outcomes.
 
-**Medical Appointment No-Show Prediction :**   Predicts missed medical appointments using ML (feature engineering + model comparison on imbalanced data).  
-Repo: https://github.com/GBOMBOMA/MEDICAL-APPOINTMENT-NO-SHOW-PREDICTION.git
+Repos: 
+1- **Medical Appointment No-Show Prediction :**   Predicts missed medical appointments using ML (feature engineering + model comparison on imbalanced data).  
+https://github.com/GBOMBOMA/MEDICAL-APPOINTMENT-NO-SHOW-PREDICTION.git
+2- **AI PubMed Article Search & APA Bibliography Generator :**  AI-assisted PubMed literature search that builds queries, retrieves and ranks articles (TF-IDF/optional embeddings), and outputs APA-ready references plus JSON for reuse in workflows.
+https://github.com/GBOMBOMA/AI-PubMed-Article-Search-and-APA-Bibliography-Generator.git
 
 <!--
 **GBOMBOMA/GBOMBOMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
