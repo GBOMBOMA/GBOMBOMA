@@ -1,4 +1,4 @@
-With a background in biomedical science, I recently completed a diploma in Artificial Intelligence and a Master’s in Epidemiology. My skill set includes data collection, data processing, statistical and AI modeling, using R and Python.
+I leverage R and Python for Data Processing, Statistical Analysis, and Predictive Modeling.
 
 Repos: 
 
